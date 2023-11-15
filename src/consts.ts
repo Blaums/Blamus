@@ -1,37 +1,21 @@
-export const SITE_TITLE = 'MattTheTekie'
-export const SITE_DESCRIPTION = 'Welcome to my homepage. Im a cybersecurity geek, and Linux user.'
+export const SITE_TITLE = 'Rihard'
+export const SITE_DESCRIPTION = 'Welcome to my homepage. Im a IT geek and I love to learn new stuff.'
 
-export const NAME = 'MattTheTekie'
-export const ROLE = 'Linux geek'
+export const NAME = 'Rihard'
+export const ROLE = 'IT support'
 export const BOOKS = ['Clean Code - Robert C. Martin', 'Metamorphosis - Franz Kafka', 'Fahrenheit 451 - Ray Bradbury', 'The Crow and Other Stories - Edgar Allan Poe']
 export const HOBBIES = ['Linux customization', 'gaming', 'reading', 'coding']
 export const SOCIAL = [
   {
-    link: 'https://github.com/MattTheTekie',
+    link: 'https://github.com/Blaums',
     name: 'GitHub'
   },
   {
-    link: 'https://discord.gg/VhfM3UncBB',
-    name: 'Discord'
-  },
-  {
-    link: 'https://nerdculture.de/@ASTAFATHERSATAN',
-    name: 'Mastodon'
-  },
-    {
-    link: 'https://social.venith.net/u/MattTheTekie',
-    name: 'Lemmy'
-  },
-    {
-    link: 'https://odysee.com/@mattdoestech726:5',
-    name: 'Odysee'
-    },
-  {
-    link: 'https://www.linkedin.com/in/matthew-pitsicalis',
+    link: 'https://www.linkedin.com/in/rihard/',
     name: 'Linkedin'
   },
   {
-    link: 'mailto:mattfromspace@protonmail.com',
+    link: 'rihard.b95@gmail.com',
     name: 'Email'
   }
 ]
@@ -40,12 +24,4 @@ export const OTHER_LINKS = [
     name: 'Coming soon',
     link: '#'
   },
-  {
-    link: 'https://github.com/sponsors/mattthetekie',
-    name: 'Sponsor me on GitHub'
-  },
-  {
-    link: 'https://ko-fi.com/mattthetekie',
-    name: 'Buy me a coffee'
-  }
 ]
