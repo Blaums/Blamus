@@ -7,9 +7,7 @@
   <a href='https://discord.com/users/846112982772613171' target='_blank'><img alt="discord status" src="https://api.statusbadges.me/badge/status/846112982772613171" /></a>
   <img alt="who viewed me owo" src="https://komarev.com/ghpvc/?username=Blaums" />
   <img alt='Pronouns' src='https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6004d014406af11e4593a013' />
-  <a href="https://wakatime.com/@MattTheTekie" target='_blank'>
-    <img alt='wakatime res' src='https://wakatime.com/badge/user/2f8520ba-7155-4dbf-9965-0a4fc30cdf7f.svg' />
-  </a>
+
   
   <p align="center">
     <a href="https://skillicons.dev">
