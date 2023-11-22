@@ -1,7 +1,7 @@
 <div align="center">
     <img alt='pfp res' src='https://avatars.githubusercontent.com/u/117294609?s=48&v=4' />  
-  <h2>MattTheTekie 🐱‍💻</h2>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=courier+new&color=0BF700&lines=Hello!+My+name+is+Matt!;A.K.A+MattTheTekie+or+Matthew%20P." />
+  <h2>Rihards Jānis Blaums/h2>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=courier+new&color=0BF700&lines=Hello!+My+name+is+Rihards Jānis Blaums!" />
   <blockquote>Working with electronics, and backends.</blockquote>
 
   <a href='https://discord.com/users/846112982772613171' target='_blank'><img alt="discord status" src="https://api.statusbadges.me/badge/status/846112982772613171" /></a>
