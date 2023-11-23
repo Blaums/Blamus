@@ -3,8 +3,6 @@
   <h2>Rihards Jānis Blaums</h2>
   <img src="https://readme-typing-svg.herokuapp.com/?font=courier+new&color=0BF700&lines=Hello!+My+name+is+Rihards Jānis Blaums!" />
   <blockquote>Working with security settings and also </blockquote>
-
-  <a href='https://discord.com/users/846112982772613171' target='_blank'><img alt="discord status" src="https://api.statusbadges.me/badge/status/846112982772613171" /></a>
   <img alt="who viewed me owo" src="https://komarev.com/ghpvc/?username=Blaums" />
   <img alt='Pronouns' src='https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6004d014406af11e4593a013' />
 
@@ -15,9 +13,7 @@
     </a>
   </p>
   
-  <a href="https://discord.com/users/846112982772613171">
-    <img src="https://lanyard.cnrad.dev/api/846112982772613171?bg=333333&borderRadius=10px" />
-  </a>
+
 </div>
 
 
