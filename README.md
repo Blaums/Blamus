@@ -25,13 +25,13 @@
  - You can call me Rihard.
 
 ### 🤔 What I'm doing
- - Reverse engineering. 💻
- - Maintaining the VENITH network & the CrazyHellTechnologies organization. 🌐
- - Maintaining scripts for various projects. ⌨️
- - Living on Kepler-186F. 🌌
+ - CYbersecurity. 💻
+ - Being part of VENITH network. 🌐
+ - Tech support. ⌨️
+
 
 ### 📃 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MattTheTekie&count_private=true&show_icons=true&theme=chartreuse-dark" alt="MattTheTekie" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Blaums&count_private=true&show_icons=true&theme=chartreuse-dark" alt="MattTheTekie" /></p>
 <br>
 
 <p><img src="/github-metrics.svg" alt="Metrics"></p>
