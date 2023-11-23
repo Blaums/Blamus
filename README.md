@@ -47,37 +47,20 @@
 [![Samsung S21+ 5G](https://img.shields.io/badge/Samsung%20S21+%205G-fd4900?style=flat&logo=Samsung&logoColor=ffffff&color=blue)](https://icecat.biz/en/p/samsung/sm-g996bzvgeue/galaxy-smartphones-8806090882357-sm-g996b-88009632.html)<br>
 
 ### 📫 Get in touch
-[![Discord](https://tinyurl.com/yw2am5ah)](https://discord.gg/VhfM3UncBB)<br>
-[![Odysee](https://img.shields.io/badge/CrazyHellTechnologies-EF1970?style=flat&logo=Odysee&logoColor=white)](https://odysee.com/@mattdoestech726:5)<br>
-[![Mastodon](https://img.shields.io/badge/%40ASTAFATHERSATAN-0088cc?style=flat&logo=mastodon&logoColor=ffffff)](https://nerdculture.de/@ASTAFATHERSATAN)<br>
-[![Telegram](https://img.shields.io/badge/%40Knight666_666-0088cc?style=flat&logo=telegram&logoColor=ffffff)](https://t.me/Knight666_666)<br>
-[![DSiPaint](https://img.shields.io/badge/%F0%9F%8E%A8%20MattFromSpace-blue.svg?style=flat)](https://dsipaint.com/member/?id=152737)<br>
-[![KOOKAPP](https://tinyurl.com/yhpv9vt9)](https://kookapp.cn/widget?id=2477159536848951&theme=dark)<br>
-[![Bilibili](https://bilistats.lonelyion.com/followers?uid=1500079337&style=flat)](https://space.bilibili.com/1500079337)<br>
-[![NicoNico](https://img.shields.io/badge/%40CrazyHellTech-0088cc?style=flat&logo=niconico&logoColor=ffffff)](https://www.nicovideo.jp/user/126721048)<br>
-[![NetroCorp](https://tinyurl.com/bdffr5tr)](https://netrocorp.net/users/61)<br>
+rihards.b95@gmail.com
 ### 🛸 You can check out my website's below&nbsp;
 
-> 📡 [[**MattTheTekie**]](https://test72.eu.org/)
+> 📡 [[**Rihards Jānis Blaums**]](https://rihard.tech/)
 
 My new homepage on the corner of the internet.&nbsp;
 
-> 🔭 [[**MattTheTekie's Blog**]](https://test72.eu.org/blog/)
+  > 🔭 [[**Rihards Jānis Blaum's Blog**]](https://rihard.tech/blog)
 
 My new blogging corner on the world wide web.&nbsp;
 
-> 🧪 [[**Tsuka's Homelab**]](https://hackerlab.venith.net/)
-
-My new hackerlab on the corner of the internet.&nbsp;
 
 > 🐱‍💻 [[**VENITH NETWORK**]](https://venith.net/)
 
-My new infrastructure project on the internet.&nbsp;
+I'm part of new infrastructure project on the internet.&nbsp;
 
-> 🐧 [[**CrazyHellTechnologies**]](https://github.com/CrazyHellTechnologies/)
 
-We're a simple development group, focusing on DSiPaint, Linux, and Android.&nbsp;
-
-> 🕹️ [[**TheBestBros**]](https://thebestbros.surge.sh)
-
-My old website that holds memories beyond imagination.&nbsp;
