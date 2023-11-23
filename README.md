@@ -30,7 +30,7 @@
 
 
 ### 📃 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Blaums&count_private=true&show_icons=true&theme=chartreuse-dark" alt="MattTheTekie" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Blaums&count_private=true&show_icons=true&theme=chartreuse-dark" alt="Blaums" /></p>
 <br>
 
 <p><img src="/github-metrics.svg" alt="Metrics"></p>
