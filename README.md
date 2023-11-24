@@ -30,7 +30,10 @@
 
 
 ### 📃 GitHub Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Blaums&count_private=true&show_icons=true&theme=chartreuse-dark" alt="Blaums" /></p>
+<br>
 
+<p><img src="/github-metrics.svg" alt="Metrics"></p>
 
 ### 💻 Working environment
 [![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)<br>
