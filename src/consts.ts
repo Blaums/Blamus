@@ -1,7 +1,7 @@
-export const SITE_TITLE = 'Rihard Jānis Blaums'
+export const SITE_TITLE = 'Rihards Jānis Blaums'
 export const SITE_DESCRIPTION = 'Welcome to my homepage. Im a IT geek and I love to learn new stuff.'
 
-export const NAME = 'Rihard Jānis Blaums'
+export const NAME = 'Rihards Jānis Blaums'
 export const ROLE = 'IT support'
 export const BOOKS = ['Clean Code - Robert C. Martin', 'Metamorphosis - Franz Kafka', 'Fahrenheit 451 - Ray Bradbury', 'The Crow and Other Stories - Edgar Allan Poe']
 export const HOBBIES = ['Linux customization', 'gaming', 'reading', 'coding']
