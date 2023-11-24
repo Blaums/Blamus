@@ -15,7 +15,7 @@ export const SOCIAL = [
     name: 'Linkedin'
   },
   {
-    link: 'rihard.b95@gmail.com',
+    link: 'mailto:rihard.b95@gmail.com',
     name: 'Email'
   }
 ]
