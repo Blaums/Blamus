@@ -24,7 +24,7 @@
  - You can call me Rihard.
 
 ### 🤔 What I'm doing
- - CYbersecurity. 💻
+ - Cybersecurity. 💻
  - Being part of VENITH network. 🌐
  - Tech support. ⌨️
 
