@@ -25,7 +25,6 @@
 
 ### 🤔 What I'm doing
  - Cybersecurity. 💻
- - Being part of VENITH network. 🌐
  - Tech support. ⌨️
 
 
