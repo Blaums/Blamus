@@ -39,7 +39,6 @@
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat&logo=windows&logoColor=ffffff)](https://www.teamos.xyz/threads/windows-10-x-lite-redstone-redux.193627/)<br>
 
 
-### 📱 Devices in use
 
 
 
