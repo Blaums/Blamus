@@ -38,7 +38,7 @@
 ### 💻 Working environment
 [![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)<br>
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat&logo=windows&logoColor=ffffff)](https://www.teamos.xyz/threads/windows-10-x-lite-redstone-redux.193627/)<br>
-[![Linux Mint 21.1](https://img.shields.io/badge/Linux%20Mint-Mint?logo=linux-mint&logoColor=fff&style=flat)](https://linuxmint.com/)<br>
+[![Linux Mint 21.1](https://img.shields.io/badge/Ubuntu?logo=Ubuntu&logoColor=fff&style=flat)](https://linuxmint.com/)<br>
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)](https://archlinux.org/)<br>
 
 ### 📱 Devices in use
