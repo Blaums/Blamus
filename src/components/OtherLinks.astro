@@ -1,34 +1,30 @@
----
-import {
-  FaHeart,
-} from 'react-icons/fa';
 import { CgFileDocument } from 'react-icons/cg';
 import { GiCoffeeCup } from 'react-icons/gi';
 
 import {
   OTHER_LINKS
 } from '../consts';
----
-<ul class="flex flex-col w-fit">
+
+<ul className="flex flex-col space-y-4">
   {OTHER_LINKS.map(item => (
-    <li>
+    <li key={item.name}>
       <a
         href={item.link}
-        class:list={["flex items-center space-x-2 text-lg font-bold mb-4 w-full py-2 px-4 hover:no-underline", {
-          "bg-green-600 text-white": item.name.toLowerCase().includes('curriculum'),
-          "bg-red-600 text-white": item.name.toLowerCase().includes('sponsor'),
-          "bg-pink-600 text-white": item.name.toLowerCase().includes('coffee'),
-        }]}
+        className={`bg-gradient-to-r from-${item.name.toLowerCase().includes('curriculum') ? "blue" : ""}${item.name.toLowerCase().includes('sponsor') ? "red" : ""}${item.name.toLowerCase().includes('coffee') ? "pink" : ""}-500 to-${item.name.toLowerCase().includes('curriculum') ? "blue" : ""}${item.name.toLowerCase().includes('sponsor') ? "red" : ""}${item.name.toLowerCase().includes('coffee') ? "pink" : ""}-700 text-white font-bold py-2 px-4 rounded-full flex items-center space-x-2 transition-all hover:no-underline`}
         target="_blank"
         rel="noopener noreferrer"
       >
-        {item.name.toLowerCase().includes('curriculum')
-          ? <CgFileDocument size={24} />
-          : item.name.toLowerCase().includes('coffee')
-            ? <GiCoffeeCup size={24} />
-            : <FaHeart size={24} />
+        {item.name.toLowerCase().includes('curriculum') &&
+          <div className="bg-white rounded-full p-2">
+            <CgFileDocument size={24} />
+          </div>
         }
-        <span>{item.name}</span>
+        {item.name.toLowerCase().includes('coffee') &&
+          <GiCoffeeCup size={24} />
+        }
+        {!item.name.toLowerCase().includes('curriculum') && !item.name.toLowerCase().includes('coffee') &&
+          <span>{item.name}</span>
+        }
       </a>
     </li>
   ))}
