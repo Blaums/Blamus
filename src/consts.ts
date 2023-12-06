@@ -22,6 +22,6 @@ export const SOCIAL = [
 export const OTHER_LINKS = [
   {
     name: 'Coming soon',
-    link: 'Blaums/public/Rihard-EN.pdf'
+    link: 'Rihard-EN.pdf'
   },
 ]
