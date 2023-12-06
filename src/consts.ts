@@ -21,7 +21,7 @@ export const SOCIAL = [
 ]
 export const OTHER_LINKS = [
   {
-    name: 'Coming soon',
+    name: 'Resume',
     link: 'Rihard-EN.pdf'
   },
 ]
